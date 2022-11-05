@@ -6,6 +6,6 @@
 
 Projetos que serão criados, Bots de mensagem, Jogos, Dashboards e Visualizações de dados, Sites e Redes sociais e muito mais, sendo 100 projetos ao total.</h2>
 
-<h3>Dia 01: Criação do repositório, aprendizado de variáveis e criação do primeiro projeto</h3>
+<h3>Dia 01: Criação do repositório, aprendizado de variáveis e criação do primeiro projeto: Gerador de nome de banda</h3>
 
 
