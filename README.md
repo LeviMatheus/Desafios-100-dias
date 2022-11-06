@@ -6,6 +6,5 @@
 
 Projetos que serão criados, Bots de mensagem, Jogos, Dashboards e Visualizações de dados, Sites e Redes sociais e muito mais, sendo 100 projetos ao total.</h2>
 
-<h3>Dia 01: Criação do repositório, aprendizado de variáveis e criação do primeiro projeto: Gerador de nome de banda</h3>
-
-
+<h3>Dia 01: Criação do repositório, aprendizado de variáveis e criação do projeto: Gerador de nome de banda</h3>
+<h3>Dia 02: Tipos de dados, funções de conversões, fprint e criação do projeto Projeto: Calculadora de gorjeta</h3>
