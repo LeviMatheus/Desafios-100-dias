@@ -11,7 +11,6 @@ qtd_numeros = int(input(f"E quantos números?\n"))
 
 #zerada inicialmente
 senha = ''
-novo_carac = ''
 
 while(qtd_letras > 0 or qtd_simbolos > 0 or qtd_numeros > 0):
     categoria = random.randrange(0,3)
@@ -19,24 +18,20 @@ while(qtd_letras > 0 or qtd_simbolos > 0 or qtd_numeros > 0):
         if(qtd_letras == 0):
             continue
         else:
-            index_sorteio = random.randrange(0,len(letras)+1)
-            novo_carac = letras[index_sorteio]
+            senha += random.choice(letras)
             qtd_letras-=1
     elif(categoria==1):
         if(qtd_simbolos == 0):
             continue
         else:
-            index_sorteio = random.randrange(0,len(simbolos)+1)
-            novo_carac = simbolos[index_sorteio]
+            senha += random.choice(simbolos)
             qtd_simbolos-=1
     elif(categoria==2):
         if(qtd_numeros == 0):
             continue
         else:
-            index_sorteio = random.randrange(0,len(numeros)+1)
-            novo_carac = numeros[index_sorteio]
+            senha += random.choice(numeros)
             qtd_numeros-=1
-    senha += novo_carac
 
 print(f"Sua senha gerada é: {senha}")
 

@@ -11,3 +11,4 @@ Projetos que serão criados, Bots de mensagem, Jogos, Dashboards e Visualizaçõ
 <h4>Dia 02: Tipos de dados, funções de conversões, fprint. Projeto: Calculadora de gorjeta.</h4>
 <h4>Dia 03: Estruturas condicionais. Projeto: Ilha do tesouro.</h4>
 <h4>Dia 04: Listas, dicionários e números aleatórios. Projeto: Pedra, papel, tesoura!</h4>
+<h4>Dia 05: Iteração, random ranges, desafio FizzBuzz. Projeto: Gerador de senhas seguras</h4>
