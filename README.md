@@ -2,10 +2,11 @@
 
 <h1>Desafios 100 dias de programação em Python</h1>
 
-<h3>Desafio dos 100 dias de codificação em Python, contemplando todos os aspectos da programação Python desde o básico da linguagem até Desenvolvimento Web, Ciência de dados e tc. 
-O repositório vai ser sempre atualizado com o conteúdo aprendido através da aplicação em projetos. Partindo desde o básico até o avançado.
+<h3>Desafio dos 100 dias de codificação em Python, contemplando todos os aspectos da programação Python desde o básico da linguagem até Desenvolvimento Web, Ciência de dados e etc. 
 
-Projetos que serão criados, Bots de mensagem, Jogos, Dashboards e Visualizações de dados, Sites e Redes sociais e muito mais.</h3>
+<h3>O repositório vai ser sempre atualizado com o conteúdo aprendido através da aplicação em projetos. Partindo desde o básico até o avançado.</h3>
+
+<h3>Projetos que serão criados, Bots de mensagem, Jogos, Dashboards e Visualizações de dados, Sites e Redes sociais e muito mais.</h3>
 
 <h3>Projetos</h3>
 <h4>(Básico) Gerador de nome de banda.</h4>
